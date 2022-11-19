@@ -1,0 +1,1 @@
+# Show-polygon-information-on-click
